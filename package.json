@@ -1,0 +1,30 @@
+{
+  "name": "gulp-html-book",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Craig Roberts <craig0990@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-front-matter": "1.3.0",
+    "gulp-piece": "1.1.1",
+    "gulp-rename": "1.2.2",
+    "gulp-ssg": "2.2.1",
+    "gulp-tap": "0.1.3",
+    "gulp-util": "3.0.7",
+    "gulp-wrap": "0.11.0",
+    "markdown-it": "6.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craig0990/gulp-html-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/craig0990/gulp-html-book/issues"
+  },
+  "homepage": "https://github.com/craig0990/gulp-html-book#readme",
+  "description": ""
+}
